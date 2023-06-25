@@ -1,0 +1,425 @@
+.home,
+.home * {
+  box-sizing: border-box;
+}
+.home {
+  background: #181818;
+  width: 1920px;
+  height: 1080px;
+  position: relative;
+  overflow-y: auto;
+}
+.homescroll {
+  background: #181818;
+  width: 1920px;
+  height: 2175px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow-y: auto;
+}
+.ellipse-2 {
+  background: #181818;
+  border-radius: 50%;
+  width: 96px;
+  height: 95px;
+  position: absolute;
+  left: 1755px;
+  top: 62px;
+}
+.rectangle-14 {
+  background:  #343434;
+  border-radius: 129px;
+  width: 1589px;
+  height: 97px;
+  position: absolute;
+  left: 67px;
+  top: 1637px;
+}
+.rectangle-13 {
+  background:  #343434;
+  border-radius: 129px;
+  width: 1589px;
+  height: 97px;
+  position: absolute;
+  left: 67px;
+  top: 1512px;
+}
+.rectangle-12 {
+  background:  #343434;
+  border-radius: 129px;
+  width: 1589px;
+  height: 97px;
+  position: absolute;
+  left: 70px;
+  top: 1384px;
+}
+.rectangle-18 {
+  background:  #343434;
+  border-radius: 129px;
+  width: 1589px;
+  height: 97px;
+  position: absolute;
+  left: 67px;
+  top: 1763px;
+}
+.rectangle-19 {
+  background:  #343434;
+  border-radius: 129px;
+  width: 1589px;
+  height: 97px;
+  position: absolute;
+  left: 60px;
+  top: 1888px;
+}
+.rectangle-10 {
+  background: #ECFCD7;
+  border-radius: 129px;
+  width: 1589px;
+  height: 144px;
+  position: absolute;
+  left: 67px;
+  top: 1108px;
+}
+.today {
+  color: #181818;
+  text-align: center;
+  font: 700 50px "Nunito", sans-serif;
+  position: absolute;
+  left: 73px;
+  top: 1149px;
+  width: 1576px;
+  height: 63px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.icon-more {
+  position: absolute;
+  inset: 0;
+}
+.group {
+  position: absolute;
+  left: 775px;
+  top: 2048px;
+  overflow: visible;
+}
+.frame-6 {
+  background: #181818;
+  width: 1920px;
+  height: 647px;
+  position: absolute;
+  left: 0px;
+  top: 373px;
+  overflow-x: auto;
+}
+.frame-4 {
+  width: 3623px;
+  height: 614px;
+  position: absolute;
+  left: 26px;
+  top: 15px;
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-6 {
+  background: #343434;
+  border-radius: 129px;
+  width: 414px;
+  height: 614px;
+  position: absolute;
+  left: 1753px;
+  top: 3px;
+}
+.rectangle-7 {
+  background:  #343434;
+  border-radius: 129px;
+  width: 414px;
+  height: 614px;
+  position: absolute;
+  left: 2191px;
+  top: 0px;
+}
+.rectangle-8 {
+  background: #343434;
+  border-radius: 129px;
+  width: 414px;
+  height: 614px;
+  position: absolute;
+  left: 2630px;
+  top: 3px;
+}
+.rectangle-9 {
+  background:  #343434;
+  border-radius: 129px;
+  width: 414px;
+  height: 614px;
+  position: absolute;
+  left: 3068px;
+  top: 3px;
+}
+.rectangle-2 {
+  background:  #343434;
+  border-radius: 129px;
+  width: 414px;
+  height: 614px;
+  position: absolute;
+  left: 0px;
+  top: 3px;
+}
+.rectangle-3 {
+  background:  #343434;
+  border-radius: 129px;
+  width: 414px;
+  height: 614px;
+  position: absolute;
+  left: 438px;
+  top: 0px;
+}
+.rectangle-4 {
+  background:  #343434;
+  border-radius: 129px;
+  width: 414px;
+  height: 614px;
+  position: absolute;
+  left: 877px;
+  top: 3px;
+}
+.rectangle-5 {
+  background:  #343434;
+  border-radius: 129px;
+  width: 414px;
+  height: 614px;
+  position: absolute;
+  left: 1315px;
+  top: 3px;
+}
+.line-7 {
+  border-style: solid;
+  border-color: #646464;
+  border-width: 1px 0 0 0;
+  width: 1928px;
+  height: 0px;
+  position: absolute;
+  left: -4px;
+  top: 1050px;
+}
+.line-6 {
+  border-style: solid;
+  border-color: #646464;
+  border-width: 1px 0 0 0;
+  width: 1928px;
+  height: 0px;
+  position: absolute;
+  left: -8px;
+  top: 347px;
+}
+.rectangle-22 {
+  background: linear-gradient(
+    180deg,
+    rgba(171, 255, 64, 1) 0%,
+    rgba(24, 24, 24, 1) 83.42030644416809%
+  );
+  width: 1920px;
+  height: 345px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-7 {
+  width: 1714px;
+  height: 60px;
+  position: absolute;
+  left: 111px;
+  top: 242px;
+}
+.frame-5 {
+  background: #c0c0c0;
+  border-radius: 97px;
+  padding: 0px 60px 0px 60px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 375px;
+  height: 60px;
+  position: absolute;
+  left: 1092px;
+  top: 0px;
+}
+.daily-motivation {
+  color: #181818;
+  text-align: left;
+  font: 700 33px "Nunito", sans-serif;
+  position: relative;
+  width: 272px;
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2 {
+  background: #c0c0c0;
+  border-radius: 97px;
+  padding: 0px 60px 0px 60px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 375px;
+  height: 60px;
+  position: absolute;
+  left: 687px;
+  top: 0px;
+}
+.schedule {
+  color: #181818;
+  text-align: center;
+  font: 700 35px "Nunito", sans-serif;
+  position: relative;
+  width: 272px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-1 {
+  background: #c0c0c0;
+  border-radius: 97px;
+  padding: 0px 60px 0px 60px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 375px;
+  height: 60px;
+  position: absolute;
+  left: 282px;
+  top: 0px;
+}
+.notes {
+  color: #181818;
+  text-align: center;
+  font: 700 35px "Nunito", sans-serif;
+  position: relative;
+  width: 269px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ellipse-22 {
+  background: #181818;
+  border-radius: 50%;
+  width: 96px;
+  height: 95px;
+  position: absolute;
+  left: 1755px;
+  top: 62px;
+}
+._52-ce-6-cc-969-fac-753-f-4-ae-985997-b-147-e-7-2 {
+  border-radius: 1234px;
+  width: 95px;
+  height: 95px;
+  position: absolute;
+  left: 1755px;
+  top: 62px;
+}
+.icon-scan-barcode {
+    position: absolute;
+    left: 61px;
+    top: 0px;
+}
+.group2 {
+  position: absolute;
+  left: 61px;
+  top: 84px;
+  overflow: visible;
+}
+.icon-more-circle {
+    position: absolute;
+    left: 1670px;
+    top: 84px;
+  }
+.group3 {
+  position: absolute;
+  left: 1677px;
+  top: 84px;
+  overflow: visible;
+}
+.frame-9 {
+  width: 137.75px;
+  height: 140px;
+  position: sticky;
+  left: 1705px;
+  top: 876px;
+}
+.icon-message {
+  background: rgba(236, 252, 215, 0.25);
+  border-radius: 114px;
+  padding: 28px 27px 28px 27px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.group4 {
+  flex-shrink: 0;
+  width: 83.75px;
+  height: 84px;
+  position: static;
+}
+.vector16 {
+  position: absolute;
+  left: 27px;
+  top: 28px;
+  overflow: visible;
+}
+.group5 {
+  position: absolute;
+  left: 52.1px;
+  top: 65.69px;
+  overflow: visible;
+}
+.icon-add-circle {
+    position: sticky;
+    left: 1709px;
+    top: 682px;
+  }
+.icon-home-2 {
+    position: absolute;
+    left: 220px;
+    top: 81px;
+    overflow: visible;
+  }
+.group6 {
+  position: absolute;
+  left: 1723px;
+  top: 708px;
+  overflow: visible;
+}
+.addcircle {
+    border-radius: 1500px;
+    width: 127px;
+    height: 127px;
+    position: sticky;
+    left: 1705px;
+    top:700px;
+  }
+.rectangle-1531 {
+  width: 173px;
+  height: 135px;
+  position: absolute;
+  left: 874px;
+  top: 50px;
+}

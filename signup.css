@@ -1,0 +1,319 @@
+.signup {
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .signup .overlap-wrapper {
+    background: linear-gradient(180deg, rgb(171, 255, 64) 0%, rgba(24, 24, 24, 0) 100%);
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px none;
+    height: 1080px;
+    overflow-y: scroll;
+    overflow-x:hidden;
+    width: 1920px;
+  }
+  
+  .signup .overlap {
+    height: 1730px;
+    position: relative;
+  }
+  
+  .signup .signup-scroll {
+    background-color: #181818;
+    height: 1730px;
+    left: 0;
+    overflow-y: scroll;
+    overflow-x:hidden;
+    position: absolute;
+    top: 0;
+    width: 1920px;
+  }
+  
+  .signup .overlap-group {
+    background: linear-gradient(180deg, rgb(171, 255, 64) 0%, rgba(24, 24, 24, 0) 100%);
+    height: 1080px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1920px;
+  }
+  
+  .signup .div {
+    background-color: #ffffff1f;
+    border-radius: 65px;
+    height: 182px;
+    left: 66px;
+    position: absolute;
+    top: 335px;
+    width: 1788px;
+  }
+  
+  .signup .text-wrapper {
+    color: #e0e0e0;
+    font-family: "Nunito-Regular", Helvetica;
+    font-size: 36px;
+    font-weight: 400;
+    height: 49px;
+    left: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 66px;
+    width: 390px;
+  }
+  
+  .signup .rectangle {
+    background-color: #ffffff;
+    border: 0px none;
+    border-radius: 35px;
+    height: 62px;
+    left: 519px;
+    position: absolute;
+    top: 60px;
+    width: 1105px;
+    font-size: 36px;
+    text-align: center;
+  }
+  
+  .signup .overlap-2 {
+    background-color: #ffffff1f;
+    border-radius: 65px;
+    height: 182px;
+    left: 66px;
+    position: absolute;
+    top: 833px;
+    width: 1788px;
+  }
+  
+  .signup .text-wrapper-2 {
+    color: #e0e0e0;
+    font-family: "Nunito-Regular", Helvetica;
+    font-size: 36px;
+    font-weight: 400;
+    height: 49px;
+    left: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 66px;
+    width: 390px;
+  }
+  
+  .signup .rectangle-2 {
+    background-color: #ffffff;
+    border: 0px none;
+    border-radius: 35px;
+    height: 62px;
+    left: 519px;
+    position: absolute;
+    top: 60px;
+    width: 1105px;
+    font-size: 36px;
+    text-align: center;
+  }
+  
+  .signup .overlap-3 {
+    background-color: #ffffff1f;
+    border-radius: 65px;
+    height: 182px;
+    left: 66px;
+    position: absolute;
+    top: 584px;
+    width: 1788px;
+  }
+  
+  .signup .text-wrapper-3 {
+    color: #e0e0e0;
+    font-family: "Nunito-Regular", Helvetica;
+    font-size: 36px;
+    font-weight: 400;
+    height: 49px;
+    left: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 66px;
+    width: 390px;
+  }
+  
+  .signup .rectangle-3 {
+    background-color: #ffffff;
+    border: 0px none;
+    border-radius: 35px;
+    height: 62px;
+    left: 519px;
+    position: absolute;
+    top: 60px;
+    width: 1105px;
+    font-size: 36px;
+    text-align: center;
+  }
+  
+  .signup .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Nunito-Regular", Helvetica;
+    font-size: 36px;
+    font-weight: 400;
+    height: 49px;
+    left: 1588px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 55px;
+  }
+  
+  .signup .p1 {
+    color: #ffffff;
+    font-family: "Nunito-Bold", Helvetica;
+    font-size: 40px;
+    font-weight: 700;
+    height: 76px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 179px;
+    width: 933px;
+  }
+  
+  .signup .overlap-4 {
+    background-color: #ffffff1f;
+    border-radius: 65px;
+    height: 182px;
+    left: 66px;
+    position: absolute;
+    top: 1082px;
+    width: 1788px;
+  }
+  
+  .signup .text-wrapper-5 {
+    color: #e0e0e0;
+    font-family: "Nunito-Regular", Helvetica;
+    font-size: 36px;
+    font-weight: 400;
+    height: 49px;
+    left: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 66px;
+    width: 390px;
+  }
+  
+  .signup .rectangle-4 {
+    background-color: #ffffff;
+    border: 0px none;
+    border-radius: 35px;
+    height: 62px;
+    left: 519px;
+    position: absolute;
+    top: 60px;
+    width: 1105px;
+    font-size: 36px;
+    text-align: center;
+  }
+  
+  .signup .overlap-5 {
+    background-color: #ffffff1f;
+    border-radius: 65px;
+    height: 182px;
+    left: 66px;
+    position: absolute;
+    top: 1331px;
+    width: 1788px;
+  }
+  
+  .signup .text-wrapper-6 {
+    color: #e0e0e0;
+    font-family: "Nunito-Regular", Helvetica;
+    font-size: 36px;
+    font-weight: 400;
+    height: 49px;
+    left: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 66px;
+    width: 390px;
+  }
+  
+  .signup .rectangle-5 {
+    background-color: #ffffff;
+    border: 0px none;
+    border-radius: 35px;
+    height: 62px;
+    left: 519px;
+    position: absolute;
+    top: 60px;
+    width: 1105px;
+    font-size: 36px;
+    text-align: center;
+  }
+  
+  .signup .frame {
+    align-items: flex-start;
+    background-color: #9be53c;
+    border-radius: 25px;
+    box-shadow: 0px 4px 4px #00000040;
+    display: flex;
+    gap: 10px;
+    left: 827px;
+    padding: 22px 69px;
+    position: absolute;
+    top: 1580px;
+    width: fit-content;
+    font-size: 36px;
+    text-align: center;
+  }
+  
+  .signup .text-wrapper-7 {
+    color: #ffffff;
+    font-family: "Nunito-Regular", Helvetica;
+    font-size: 48px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+  }
+  
+  .signup .text-wrapper-8 {
+    color: #181818;
+    font-family: "Nunito-Regular", Helvetica;
+    font-size: 50px;
+    font-weight: 400;
+    height: 68px;
+    left: 1588px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 104px;
+  }
+  
+  .signup .h-1 {
+    color: #181818;
+    font-family: "Nunito-Bold", Helvetica;
+    font-size: 100px;
+    font-weight: 700;
+    height: 131px;
+    left: 82px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 72px;
+    width: 494px;
+  }
